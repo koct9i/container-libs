@@ -108,6 +108,8 @@ github.com/coreos/go-systemd/v22/dbus
 github.com/cyberphone/json-canonicalization/go/src/webpki.org/jsoncanonicalizer
 # github.com/cyphar/filepath-securejoin v0.6.0
 ## explicit; go 1.18
+# github.com/cyphar/filepath-securejoin v0.6.1
+## explicit; go 1.18
 github.com/cyphar/filepath-securejoin
 github.com/cyphar/filepath-securejoin/internal/consts
 github.com/cyphar/filepath-securejoin/pathrs-lite
